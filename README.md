@@ -1,1 +1,1 @@
-# projekt-2
+# lekce-2
