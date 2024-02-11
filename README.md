@@ -1,1 +1,1 @@
-# lekce-2
+# DomaciUkol2
